@@ -10,7 +10,10 @@ func main() {
 
 	anggotaTiga := "Joy"
 
+	timSatu, timDua, timTiga := "satu", "dua", "tiga"
+
 	fmt.Println("Hello World")
-	fmt.Println(anggotaSatu, "\n", anggotaTiga)
+	fmt.Println(anggotaSatu, anggotaTiga)
+	fmt.Println(timSatu, timDua, timTiga)
 
 }
