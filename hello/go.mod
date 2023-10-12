@@ -1,3 +1,3 @@
-module key-learn-golang1
+module hello
 
 go 1.21.2
